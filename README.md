@@ -5,3 +5,4 @@
 + class
 - getter, setter
 * inheritance
+- static
